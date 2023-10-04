@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "title": "Introduction to C Programming",
+      "description": "This course provides a foundational understanding of the C programming language, covering syntax, data types, control structures, and basic algorithms.",
+      "image": "https://i.ibb.co/ckS7Mhh/c.png",
+      "price": "$49.99",
+      "credit": 3,
+      "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "2",
+      "title": "Data Structures and Algorithms Mastery",
+      "description": "This advanced course dives deep into data structures and algorithms commonly used in computer science and engineering.",
+      "image": "https://i.ibb.co/w4f1fDY/algorithm.png",
+      "price": "$79.99",
+      "credit": 4,
+      "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "3",
+      "title": "Introduction to C++ for DSA",
+      "description": "This course introduces C++ programming with a focus on data structures and algorithms.",
+      "image": "https://i.ibb.co/hCyc0sQ/cplusplus.png",
+      "price": "$69.99",
+      "credit": 3,
+      "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "4",
+      "title": "Introduction to OOP Python",
+      "description": "This course introduces the principles of object-oriented programming using Python.",
+      "image": "https://i.ibb.co/HdT480b/python.png",
+      "price": "$59.99",
+      "credit": 2,
+      "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "5",
+      "title": "Software Engineering",
+      "description": "Software Engineering is a comprehensive course that covers the entire software development lifecycle.",
+      "image": "https://i.ibb.co/G7s437s/software.png",
+      "price": "$89.99",
+      "credit": 4,
+      "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "6",
+      "title": "Basic Data Structures",
+      "description": "Basic Data Structures is a foundational course that covers essential data structures such as arrays, linked lists, stacks, and queues.",
+      "image": "https://i.ibb.co/xH9GvnS/structure.png",
+      "price": "$99.99",
+      "credit": 5,
+      "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "7",
+      "title": "AWS, Cloud Computing",
+      "description": "Description: This course focuses on cloud computing using AWS services.",
+      "image": "https://i.ibb.co/dcQVR5y/aws.png",
+      "price": "$49.99",
+      "credit": 3,
+      "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "8",
+        "title": "Database (MySQL)",
+        "description": "The Database (MySQL) course covers database management using the MySQL relational database system.",
+        "image": "https://i.ibb.co/NNbf964/database.png",
+        "price": "$79.99",
+        "credit": 4,
+        "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    },
+    {
+      "id": "9",
+        "title": "Problem-Solving Part",
+        "description": "This course is designed to enhance problem-solving skills in computer engineering.",
+        "image": "https://i.ibb.co/zmHQMhW/problem.png",
+        "price": "$69.99",
+        "credit": 3,
+        "dollar_icon": "https://i.ibb.co/ncm0mxs/dollar-sign-1.png",
+      "frame_icon": "https://i.ibb.co/2tZqWtk/Frame.png"
+    }
+    ]
